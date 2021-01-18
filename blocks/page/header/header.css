@@ -5,6 +5,7 @@
   min-height: 600px;
   max-height: 756px;
   background-color: #f2F2f2;
-  z-index: 1
+  z-index: 1;
+  overflow: hidden;
   /* выше установили ограничения для секции */
 }
