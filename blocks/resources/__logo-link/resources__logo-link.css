@@ -1,0 +1,11 @@
+.resources__logo-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity .2s ease-out, transform .2s ease-in-out;
+}
+
+.resources__logo-link:hover {
+  opacity: .7;
+  transform: scale(1.3);
+}
