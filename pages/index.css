@@ -1,3 +1,7 @@
+/* подключение файла normalize.css */
+
+@import url(../vendor/normalize.css);
+
 /* Блок page */
 
 @import url(../blocks/page/page.css);
