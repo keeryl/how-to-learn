@@ -21,3 +21,7 @@ Clone the project
 ```
 
 Open index.html file in your browser
+
+## Live Demo
+
+https://keeryl.github.io/how-to-learn/
